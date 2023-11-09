@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_7_3_кул.cpp
+C:\Users\Roman\source\repos\Lab_07.3_rek\Lab_07.3_rek.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Roman\source\repos\Lab_07.3_rek\x64\Debug\UnitTest_7_3_кул.lib and object C:\Users\Roman\source\repos\Lab_07.3_rek\x64\Debug\UnitTest_7_3_кул.exp
+LINK : warning LNK4232: name UnitTest_7_3_кул.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest_7_3_кул.vcxproj -> C:\Users\Roman\source\repos\Lab_07.3_rek\x64\Debug\UnitTest_7_3_кул.dll

@@ -1,0 +1,3 @@
+﻿  Lab_07.3_rek.cpp
+C:\Users\Roman\source\repos\Lab_07.3_rek\Lab_07.3_rek.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_07.3_rek.vcxproj -> C:\Users\Roman\source\repos\Lab_07.3_rek\x64\Debug\Lab_07.3_rek.exe
